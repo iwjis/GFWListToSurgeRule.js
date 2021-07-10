@@ -80,7 +80,7 @@
         if (localStorage.timestamp < 1462200713722 || (timestamp - localStorage.timestamp) > 21600000) {
             var ruleJSON = {};
 
-            $.get("https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt", function (data) {
+            $.get("https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt", function (data) {
                 var gfwlist = Base64.decode(data);
 //        $.get("./checkgfwlist.txt", function (gfwlist) {
 
