@@ -1,45 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5hVdDLRr85I9zgds72KmpQ
-! Expires: 6h
-! Title: GFWList4LL
-! GFWList with EVERYTHING included
-! Last Modified: Sat, 26 Mar 2022 17:08:52 -0400
-!
-! HomePage: https://github.com/gfwlist/gfwlist
-! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
-!
-! GFWList is unlikely to fully comprise the real
-! rules being deployed inside GFW system. We try
-! our best to keep the list up to date. Please
-! contact us regarding URL submission / removal,
-! or suggestion / enhancement at issue tracker:
-! https://github.com/gfwlist/gfwlist/issues/.
-
-!---------403/451/503/520 & URL Redirects---------
-!--ehentai
 |http://85.17.73.31/
 !--||adorama.com
 ||afreecatv.com
 ||agnesb.fr
-||akiba-web.com
-||altrec.com
-||angela-merkel.de
-||angola.org
-||apartmentratings.com
-||apartments.com
-||arena.taipei
-||asianspiss.com
-||assimp.org
-||athenaeizou.com
-||azubu.tv
-||bankmobilevibe.com
-||banorte.com
-||beeg.com
-||global.bing.com
-||booktopia.com.au
-||boysmaster.com
-||bynet.co.il
-||byrut.org
-||carfax.com
 .casinobellini.com
 !---------------------EOF-----------------------
